@@ -4,3 +4,10 @@
 .my-mail:hover{
     color: green;
 }
+.portfolio{
+    /*width:100%;*/
+    padding: 10px;
+}
+.center{
+    text-align:center;
+}
